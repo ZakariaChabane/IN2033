@@ -15,7 +15,7 @@ The roles within a team are:
 - Team Leader: Filippo Vicini
 - Deputy Team Leader: Amaan Ali
 - System Analyst: Pheonix Meo
-- System Designer: Amaan Ali
+- System Designer: Amaan Ali/ Zakaria Chabane
 - Developer: Brian Poule / Filippo Vicini
 - Tester: Pedro Menezes Da Silva
 
